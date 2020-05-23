@@ -41,6 +41,7 @@
     "@arshad/gatsby-theme-phoenix": "^1.1.6",
     "@arshad/gatsby-theme-photo-core": "^1.1.5",
     "@arshad/gatsby-theme-podcast-core": "^1.1.5",
-    "@arshad/gatsby-theme-portfolio-core": "^1.1.5"
+    "@arshad/gatsby-theme-portfolio-core": "^1.1.5",
+    "disqus-react": "^1.0.8"
   }
 }
